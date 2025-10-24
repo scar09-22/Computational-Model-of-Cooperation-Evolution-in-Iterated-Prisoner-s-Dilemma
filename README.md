@@ -221,6 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**If you find this project interesting, please star the repository!**
 
-*For questions or suggestions, feel free to open an issue or reach out!*
